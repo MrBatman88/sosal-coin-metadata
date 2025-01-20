@@ -1,0 +1,13 @@
+{
+  "name": "Sosal Coin",
+  "symbol": "SOSAL",
+  "description": "The ultimate meme token on Solana. Sosal or not, nothing else matters!",
+  "image": "https://raw.githubusercontent.com/MrBatman88/sosal-coin-metadata/main/logo.png",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Meme Level",
+      "value": "1000%"
+    }
+  ]
+}
